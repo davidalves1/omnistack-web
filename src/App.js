@@ -3,7 +3,7 @@ import React from 'react';
 function App() {
   return (
     <div className="App">
-      <h1>Compartilhagram :)</h1>
+      <h1>React Omnistack Boilerplate :)</h1>
     </div>
   );
 }
